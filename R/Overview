@@ -2,8 +2,24 @@ Key Coding Projects in R
 
 Demonstrated R skills:
 
-
 •	Structured, Semi-Structured, and Unstructured Data collection, processing, transformation, management, and analysis
 •	Leveraged applied statistics, information visualization (including Geolocation), text mining and machine learning
 
+DESCRIPTIVE ANALYTICS
 
+• State Population = Analyze census data from census.gov with user created functions in R.
+• New York Air Quality = Generate visual graphs to represent New York air quality. (histographs, bar graphs, heatmaps, and 
+  scatterplots)
+• US Income by Zip Code = Generate geospatial visualizations that highlight differences in state by state and region by region wealth.
+
+PREDICTIVE ANALYTICS
+
+• New York Air Quality2 = Predict exact ozone concentrations and classes (e.g. good, bad) using Support Vector Machines and Naive-Bayes
+  models. Discuss which yields better results and why.
+• Customer_Acquistion_with_AR = Analyze demographic data and banking information to determine if a person will be interested in a new PEP 
+  (Personal Equity Plan) using association rule mining. (**Raw Code Included**)
+• History Mystery = Use hierarchical agglomerative clustering (HAC) and K-means clustering to predict authorship of Founding Fathers' 
+  disputed essays. (**Raw Code Included**)
+• Handwriting Recognition = Use Decision Tress, Naive Bayes, Support Vector Machines, Neural Networks, and Random Forest to predict 
+  handwritten digits from the MNIST (Modified National Institute of Standards and Technology database) database. (**Raw Code Included**)
+• Lie Detection = Use Naive-Bayes and Support Vector Machines to detect false restaurant reviews. (**Raw Code Included**)
