@@ -1,1 +1,18 @@
+Key Coding Projects in Python
 
+Demonstrated R skills:
+
+•	Structured, Semi-Structured, and Unstructured Data collection, processing, transformation, management, and analysis
+•	Leveraged applied statistics, information visualization (including Geolocation), text mining and machine learning
+
+DESCRIPTIVE ANALYTICS
+
+• State Population = Analyze census data from census.gov with user created functions in R.
+• New York Air Quality = Generate visual graphs to represent New York air quality. (histographs, bar graphs, heatmaps, and 
+  scatterplots)
+• US Income by Zip Code = Generate geospatial visualizations that highlight differences in state by state and region by region wealth.
+
+PREDICTIVE ANALYTICS
+
+• New York Air Quality2 = Predict exact ozone concentrations and classes (e.g. good, bad) using Support Vector Machines and Naive-Bayes
+  models. Discuss which yields better results and why.
