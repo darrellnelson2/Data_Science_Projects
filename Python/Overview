@@ -1,13 +1,13 @@
 Key Coding Projects in Python
 
-Demonstrated R skills:
+Demonstrated Python skills:
 
 •	Structured, Semi-Structured, and Unstructured Data collection, processing, transformation, management, and analysis
-•	Leveraged applied statistics, information visualization (including Geolocation), text mining and machine learning
+•	Leveraged applied statistics, information visualization, text mining and machine learning
 
 DESCRIPTIVE ANALYTICS
 
-• State Population = Analyze census data from census.gov with user created functions in R.
+• NCAA Tweets = Imported and analyzed tweets from a text file pertaining to the 2017 March Madness tournament.
 • New York Air Quality = Generate visual graphs to represent New York air quality. (histographs, bar graphs, heatmaps, and 
   scatterplots)
 • US Income by Zip Code = Generate geospatial visualizations that highlight differences in state by state and region by region wealth.
