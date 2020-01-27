@@ -3,19 +3,24 @@ Key Coding Projects in Python
 Demonstrated Python skills:
 
 •	Structured, Semi-Structured, and Unstructured Data collection, processing, transformation, management, and analysis
-•	Leveraged applied statistics, information visualization, text mining and machine learning
+•	Leveraged applied statistics, information visualization, text mining, data mining, and machine learning
 
 DESCRIPTIVE ANALYTICS
 
 • NCAA Tweets = Imported and analyzed tweets from a text file pertaining to the 2017 March Madness tournament.
+• Recruiting via Social Media = Imported tweets using Twitter API from all teams in Pacific-12 (Pac-12) conference to determine if social
+media influences recruitment and pre-season rankings.
 
 
 PREDICTIVE ANALYTICS
 
 • Job Market Analysis = Determine the needs of New York City employment through text mining and descriptive analytics. Predict salary 
-  based on application requirements using Support Vector Machines and Naive-Bayes.
-• LDA Topic Modeling = Cluster political speeches from 50 Congress representatives into 10 topics using Latent Dirichlet Allocation
-• Lie Detection = Predict sentiment and authenticity of resteaurant reviews using Support Vector Machines and Naive-Bayes.
-• NLP_Classifier = Use the Naive-Bayes model to determine optimal feature sets (e.g. bigrams and stopwords) for email classification.
-• Job Market Analysi
-• Job Market Analysi
+  based on application requirements using Support Vector Machine and Naive-Bayes models.
+• LDA Topic Modeling = Cluster political speeches from 50 Congress representatives into 10 topics using Latent Dirichlet Allocation.
+• Lie Detection = Predict sentiment and authenticity of resteaurant reviews using Support Vector Machine and Naive-Bayes models.
+• NLP_Classifier = Generate a Naive-Bayes model to determine optimal feature sets (e.g. bigrams and stopwords) for email classification.
+• Picture Recognition = Identify clothing items based on pixel intensity using a Linear Support Vector Classifier and a Neural Network.
+• Salary Optimizer = Predict salary for head football coach of Syracuse University using Ordinary Least Squares (OLS) model.
+• Sentiment Classification = Determine sentiment of Rotten Tomatoes movie reviews using Naive-Bayes and Support Vector Machine models. 
+• Text Mining Clustering = Group text files together based on similarity using text mining and K-means clustering.
+
