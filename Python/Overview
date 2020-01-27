@@ -8,11 +8,14 @@ Demonstrated Python skills:
 DESCRIPTIVE ANALYTICS
 
 • NCAA Tweets = Imported and analyzed tweets from a text file pertaining to the 2017 March Madness tournament.
-• New York Air Quality = Generate visual graphs to represent New York air quality. (histographs, bar graphs, heatmaps, and 
-  scatterplots)
-• US Income by Zip Code = Generate geospatial visualizations that highlight differences in state by state and region by region wealth.
+
 
 PREDICTIVE ANALYTICS
 
-• New York Air Quality2 = Predict exact ozone concentrations and classes (e.g. good, bad) using Support Vector Machines and Naive-Bayes
-  models. Discuss which yields better results and why.
+• Job Market Analysis = Determine the needs of New York City employment through text mining and descriptive analytics. Predict salary 
+  based on application requirements using Support Vector Machines and Naive-Bayes.
+• LDA Topic Modeling = Cluster political speeches from 50 Congress representatives into 10 topics using Latent Dirichlet Allocation
+• Lie Detection = Predict sentiment and authenticity of resteaurant reviews using Support Vector Machines and Naive-Bayes.
+• NLP_Classifier = Use the Naive-Bayes model to determine optimal feature sets (e.g. bigrams and stopwords) for email classification.
+• Job Market Analysi
+• Job Market Analysi
