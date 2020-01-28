@@ -2,7 +2,7 @@
 Demonstration of skills in: Obtaining, Scrubbing, Exploring, Modeling, and Interpreting data in Python, R, and SQL.
 
 # Table of Contents
-   I. Python
+   ## I. Python
       • Job Market Analysis
       • LDA Topic Modeling
       • Lie Detection
@@ -16,7 +16,7 @@ Demonstration of skills in: Obtaining, Scrubbing, Exploring, Modeling, and Inter
    
    
    
-   II. R
+   ## II. R
       • Customer Acquistion
       • Handwriting Recognition
       • History Mystery
@@ -25,8 +25,8 @@ Demonstration of skills in: Obtaining, Scrubbing, Exploring, Modeling, and Inter
       • New York Air Quality2
       • State Population
       • US Income by Zip Code
+      
 
-   
-       
-   III. SQL
+          
+   ## III. SQL
       • Database Generation & Management
