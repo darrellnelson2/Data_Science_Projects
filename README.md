@@ -1,6 +1,7 @@
 # Data_Science_Projects
 Demonstration of skills in: Obtaining, Scrubbing, Exploring, Modeling, and Interpreting data in Python, R, and SQL.
-   > ** represents Favorite Projects 
+[Picture Recognition](https://github.com/darrellnelson2/Data_Science_Projects/tree/master/Python/Picture_Recognition)
+   > ** represents notable projects with hyperlinks at bottom of each section 
 
 # Table of Contents
    ## I. Python
@@ -16,7 +17,11 @@ Demonstration of skills in: Obtaining, Scrubbing, Exploring, Modeling, and Inter
       • Text Mining Clustering
    
    
-   
+Hyperlinks to top Python programs:
+
+[Picture Recognition](https://github.com/darrellnelson2/Data_Science_Projects/tree/master/Python/Picture_Recognition),
+[Salary Optimizer](https://github.com/darrellnelson2/Data_Science_Projects/tree/master/Python/Salary_Optimizer), &
+[Sentiment Classification](https://github.com/darrellnelson2/Data_Science_Projects/tree/master/Python/Sentiment_Classification)
    ## II. R
       • Customer Acquistion
       • **Handwriting Recognition
