@@ -1,4 +1,5 @@
-SQL Database Management Project
+Database Generation & Management SQL file contains code to design and implement a database for my tutoring business.
+Database Generation & Management PDF file is the final report.
 
 Demonstrated SQL skills:
 
@@ -10,4 +11,3 @@ Demonstrated SQL skills:
 •	Used Microsoft’s Access and SQL Server DBMSs as implementation vehicles
 •	Transaction management and concurrency control, distributed databases, multitier client/server architectures, web-based database applications, NoSQL. 
 •	Entity & Logical Relationship Diagrams w/ Draw.io & Microsoft Access
-
