@@ -16,7 +16,6 @@ Demonstration of skills in: Obtaining, Scrubbing, Exploring, Modeling, and Inter
    
    
    
-   
    II. R
       • Customer Acquistion
       • Handwriting Recognition
@@ -28,7 +27,6 @@ Demonstration of skills in: Obtaining, Scrubbing, Exploring, Modeling, and Inter
       • US Income by Zip Code
 
    
-   
-      
+       
    III. SQL
-      • Customer Acquistion
+      • Database Generation & Management
