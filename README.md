@@ -1,6 +1,5 @@
 # Data_Science_Projects
 Demonstration of skills in: Obtaining, Scrubbing, Exploring, Modeling, and Interpreting data in Python, R, and SQL.
-[Picture Recognition](https://github.com/darrellnelson2/Data_Science_Projects/tree/master/Python/Picture_Recognition)
    > ** represents notable projects with hyperlinks at bottom of each section 
 
 # Table of Contents
@@ -17,7 +16,7 @@ Demonstration of skills in: Obtaining, Scrubbing, Exploring, Modeling, and Inter
       • Text Mining Clustering
    
    
-Hyperlinks to top Python programs:
+Hyperlinks to top Python projects:
 
 [Picture Recognition](https://github.com/darrellnelson2/Data_Science_Projects/tree/master/Python/Picture_Recognition),
 [Salary Optimizer](https://github.com/darrellnelson2/Data_Science_Projects/tree/master/Python/Salary_Optimizer), &
@@ -31,8 +30,18 @@ Hyperlinks to top Python programs:
       • **New York Air Quality2
       • State Population
       • US Income by Zip Code
+         
+Hyperlinks to top R projects:
+
+[Handwriting Recognition](https://github.com/darrellnelson2/Data_Science_Projects/tree/master/R/Handwriting_Recognition),
+[History Mystery](https://github.com/darrellnelson2/Data_Science_Projects/tree/master/R/History_Mystery), &
+[New York Air Quality2](https://github.com/darrellnelson2/Data_Science_Projects/tree/master/R/New_York_Air_Quality2.pdf)
       
 
           
    ## III. SQL
       • **Database Generation & Management
+      
+ Hyperlink to SQL project:
+
+[Database Generation & Management](https://github.com/darrellnelson2/Data_Science_Projects/tree/master/SQL/Database_Generation_%26_Management)
