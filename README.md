@@ -1,5 +1,6 @@
 # Data_Science_Projects
 Demonstration of skills in: Obtaining, Scrubbing, Exploring, Modeling, and Interpreting data in Python, R, and SQL.
+   > Bold italics represent **_Favorite Projects_**
 
 # Table of Contents
    ## I. Python
@@ -19,7 +20,7 @@ Demonstration of skills in: Obtaining, Scrubbing, Exploring, Modeling, and Inter
    ## II. R
       • Customer Acquistion
       • Handwriting Recognition
-      • History Mystery
+      • **History Mystery**
       • Lie Detection
       • New York Air Quality
       • New York Air Quality2
