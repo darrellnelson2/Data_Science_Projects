@@ -1,5 +1,6 @@
 # Data_Science_Projects
 Demonstration of skills in: Obtaining, Scrubbing, Exploring, Modeling, and Interpreting data in Python, R, and SQL.
+Overview of all language specific projects can be found in the 'Overview' tab of their language folders. (e.g. Job Market Analysis description can be found in Python folder in 'Overview' file) 
    > ** represents notable projects with hyperlinks at bottom of each section 
 
 # Table of Contents
